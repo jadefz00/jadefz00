@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @jadefz00
-- 👀 I’m interested in automotive engeneering
+- 👀 I’m interested in automotive engineering
 - 🌱 I’m currently learning at the Hochschule Esslingen - University of Applied Science
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me :
 
-Mail: jacopdelogu@gmx.de
+Mail: jacopdelogu@gmx.de ; 
 Tel.: +49 171 8089368
 
 <!---
